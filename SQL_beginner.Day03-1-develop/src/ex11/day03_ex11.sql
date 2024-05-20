@@ -1,0 +1,7 @@
+UPDATE menu
+SET price = price * 0.9
+WHERE pizza_name = 'Greek pizza';
+
+SELECT *
+FROM menu
+ORDER BY id;
