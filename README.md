@@ -24,7 +24,7 @@
 6. [SQL_beginner.Day05-1-develop. **Индексы в PostgreSQL**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Day05-1-develop)
    - Исследовано создание и использование различных типов индексов, включая простые, многоколонные, функциональные и уникальные индексы в PostgreSQL.
 
-7. [SQL_beginner.Day06-1-develop. **Бизнес-функции и структура данных**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Day06-1-develop)
+7. [SQL_beginner.Day06-2-develop. **Бизнес-функции и структура данных**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Day06-2-develop)
    - Сфокусированное улучшение модели данных и добавление новых бизнес-функций.
 
 8. [SQL_beginner.Day07-1-develop. **Анализ агрегированных данных**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Day07-1-develop)
@@ -39,5 +39,5 @@
 11. [SQL_beginner.Team01-1-develop. **Решение задачи Коммивояжера (TSP)**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Team01-1-develop)
     - Групповой проект, посвященный решению задачи Коммивояжера с использованием SQL для нахождения оптимальных маршрутов.
 
-12. [SQL_beginner.Team01-2-develop. **Хранилище данных (Data Warehouse, DWH)**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Team01-2-develop)
+12. [SQL_beginner.Team01-1-develop. **Хранилище данных (Data Warehouse, DWH)**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Team01-1-develop)
     - Групповой проект, посвященный созданию и управлению хранилищем данных с целью извлечения, трансформации и загрузки данных из различных источников.
