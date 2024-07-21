@@ -6,38 +6,38 @@
 
 ## Проекты
 
-SQL_beginner.Day00-1-develop. **Реляционная модель данных и основы SQL**
+1. [SQL_beginner.Day00-1-develop. **Реляционная модель данных и основы SQL**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Day00-1-develop)
    - Выполнено задание по изучению реляционной модели данных и основ SQL. Рассмотрены ключевые конструкции SQL для работы с данными.
 
-SQL_beginner.Day01-1-develop. **Работа с множествами и операциями JOIN в SQL**
+2. [SQL_beginner.Day01-1-develop. **Работа с множествами и операциями JOIN в SQL**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Day01-1-develop)
    - Изучены операции объединения множеств и различные виды JOIN для извлечения данных.
 
-SQL_beginner.Day02-1-develop. **Структуры JOIN и реляционная алгебра**
+3. [SQL_beginner.Day02-1-develop. **Структуры JOIN и реляционная алгебра**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Day02-1-develop)
    - Освоены различные структуры JOIN и их применение для оптимизации запросов. Рассмотрены основы реляционной алгебры.
 
-SQL_beginner.Day03-1-develop. **Язык DML и изменения данных**
+4. [SQL_beginner.Day03-1-develop. **Язык DML и изменения данных**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Day03-1-develop)
    - Изучены операции вставки, обновления и удаления данных с использованием языка DML в SQL.
 
-SQL_beginner.Day04-1-develop. **Виртуальные и материализованные представления**
+5. [SQL_beginner.Day04-1-develop. **Виртуальные и материализованные представления**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Day04-1-develop)
    - Рассмотрены методы работы с виртуальными и материализованными представлениями данных, включая их создание, обновление и удаление.
 
-SQL_beginner.Day05-1-develop. **Индексы в PostgreSQL**
+6. [SQL_beginner.Day05-1-develop. **Индексы в PostgreSQL**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Day05-1-develop)
    - Исследовано создание и использование различных типов индексов, включая простые, многоколонные, функциональные и уникальные индексы в PostgreSQL.
 
-SQL_beginner.Day06-1-develop. **Бизнес-функции и структура данных**
+7. [SQL_beginner.Day06-1-develop. **Бизнес-функции и структура данных**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Day06-1-develop)
    - Сфокусированное улучшение модели данных и добавление новых бизнес-функций.
 
-SQL_beginner.Day07-1-develop. **Анализ агрегированных данных**
+8. [SQL_beginner.Day07-1-develop. **Анализ агрегированных данных**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Day07-1-develop)
    - Изучение использования агрегированных данных для анализа и улучшения модели данных в PostgreSQL.
 
-SQL_beginner.Day08-1-develop. **Транзакции и уровни изоляции**
+9. [SQL_beginner.Day08-1-develop. **Транзакции и уровни изоляции**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Day08-1-develop)
    - Изучены принципы работы транзакций и уровни изоляции в базах данных.
 
-SQL_beginner.Day09-1-develop. **Функциональные блоки и аудит-триггеры**
-   - Работа над созданием и использованием функциональных блоков, включая аудит-триггеры и функции для управления данными в PostgreSQL.
+10. [SQL_beginner.Day09-1-develop. **Функциональные блоки и аудит-триггеры**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Day09-1-develop)
+    - Работа над созданием и использованием функциональных блоков, включая аудит-триггеры и функции для управления данными в PostgreSQL.
 
-SQL_beginner.Team01-1-develop. **Решение задачи Коммивояжера (TSP)**
+11. [SQL_beginner.Team01-1-develop. **Решение задачи Коммивояжера (TSP)**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Team01-1-develop)
     - Групповой проект, посвященный решению задачи Коммивояжера с использованием SQL для нахождения оптимальных маршрутов.
 
-SQL_beginner.Team01-1-develop. **Хранилище данных (Data Warehouse, DWH)**
+12. [SQL_beginner.Team01-2-develop. **Хранилище данных (Data Warehouse, DWH)**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Team01-2-develop)
     - Групповой проект, посвященный созданию и управлению хранилищем данных с целью извлечения, трансформации и загрузки данных из различных источников.
