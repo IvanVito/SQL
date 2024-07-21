@@ -18,7 +18,7 @@
 4. [SQL_beginner.Day03-1-develop. **Язык DML и изменения данных**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Day03-1-develop)
    - Изучены операции вставки, обновления и удаления данных с использованием языка DML в SQL.
 
-5. [SQL_beginner.Day04-1-develop. **Виртуальные и материализованные представления**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Day04-1-develop)
+5. [SQL_beginner.Day04-2-develop. **Виртуальные и материализованные представления**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Day04-2-develop)
    - Рассмотрены методы работы с виртуальными и материализованными представлениями данных, включая их создание, обновление и удаление.
 
 6. [SQL_beginner.Day05-1-develop. **Индексы в PostgreSQL**](https://github.com/IvanVito/SQL/tree/main/SQL_beginner.Day05-1-develop)
